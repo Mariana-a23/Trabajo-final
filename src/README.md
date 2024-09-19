@@ -41,7 +41,7 @@
 <h2> <b> Por: Yony Fernando Ceballos. </b> </h2>
 <a href="mailto:yony.ceballos@udea.edu.co"> ✉ Yony Fernando Ceballos </a>
   <h2> <b> Por: Mariana Arévalo. </b> </h2>
-<a href="mailto:mariana.arevaloo@udea.du.co"> ✉ MAriana Arévalo Ocamp </a>
+<a href="mailto:mariana.arevaloo@udea.du.co"> ✉ Mariana Arévalo Ocampo </a>
   <h2> <b> Por: Jacobo Ávila. </b> </h2>
 <a href="mailto:jacobo.avila@udea.edu.co"> ✉ Jacobo Avila </a>
 </div>
