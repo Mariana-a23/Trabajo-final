@@ -50,12 +50,11 @@
 
 # **Descripción del problema a solucionar -Software gestión turnos**
 
-La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
+El restaurante “Delicias Gourmet” enfrenta problemas con la gestión de reservas y la asignación de mesas. Actualmente, el proceso se realiza manualmente, lo que provoca errores en la asignación de mesas, tiempos de espera prolongados y una experiencia insatisfactoria para los clientes. Además, no se tiene en cuenta la preferencia de los clientes habituales ni la capacidad del restaurante en tiempo real.
 
-Para solucionar este problema los estudiantes en grupos de máximo tres integrantes, deberán crear un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que dispone el servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el cual los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida.
 # **Objetivo**
 
-Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar la atención de los pacientes y registrar los datos en un dataframe , para posteriormente exportar la atención en un archivo plano (CSV) usando Python y la gestión de dos documentos. Uno proporcionado por el repositorio inicial y otro creado por el estudiante para entregar una carpeta con los listados de pacientes.
+Desarrollar un software que gestione las reservas y la asignación de mesas de manera eficiente. El programa debe permitir registrar las reservas, asignar mesas automáticamente según la disponibilidad y las preferencias de los clientes, y gestionar el flujo de clientes en el restaurante.
 
 # **Reglas**
 
@@ -97,8 +96,7 @@ Todos los integrantes deben registrar el programa al cual pertenece, una descrip
 `Registrar los vínculos académicos y descripcion de cada uno aquí`
 ## **3.	Nombre del proyecto y detalles**
 
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
-`Ingresar el nombre del proyecto aquí`
+Software de gestión de reservas en el restaurante 'La Dolce Vita'
 
 
 ## **4.	Licencia del software**
