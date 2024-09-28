@@ -95,9 +95,10 @@ En el repositorio del proyecto debe existir un archivo README.md en donde con Ma
 Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
 `Registrar los vínculos académicos y descripcion de cada uno aquí`
 ## **3.	Nombre del proyecto y detalles**
-
+<img alt="Dolce Vita" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="20px">
+El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita.
 Software de gestión de reservas en el restaurante 'La Dolce Vita'
-###  Detalles del software
+####  Detalles del software
 Asignación Automática de Mesas:
 El sistema asigna mesas de manera automática según la disponibilidad y preferencias del cliente (tamaño del grupo, ubicación cerca de la ventana, etc.), optimizando el uso del espacio del restaurante y evitando conflictos o dobles reservas.
 
@@ -109,7 +110,7 @@ Tanto el cliente como el personal del restaurante pueden utilizar una interfaz i
 
 ## **4.	Licencia del software**
 
-Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Mariana-a23/Trabajo-final/blob/main/src/README.md">Software de reservas del restaurante 'Dolce Vita'</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Mariana-a23/Trabajo-final/commits?author=Mariana-a23">Jacobo Ávila y Mariana Arévalo</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
 `Ingresar la licencia a utilizar aquí`
 ## **5.	Reporte de visión**
@@ -142,12 +143,5 @@ Describe los requisitos funcionales y no funcionales del software.
 *   ## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-Actividades y Cronograma (Diagrama de Gantt)
-Actividad	Duración	              Semana 1	Semana 2	Semana 3	Semana 4	Semana 5	Semana 6
-1. Análisis de Requisitos	1 semana	 X							
-2. Diseño del Sistema	    1 semana		       X						
-3. Desarrollo del Backend	2 semanas			               X	          X				
-4. Desarrollo del Frontend	2 semanas				                           x      X		
-5. Pruebas del Sistema	    1 semana							                                   X	
-6. Despliegue	            1 semana							                                	X
+
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
