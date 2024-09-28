@@ -106,8 +106,25 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 `Ingresar la licencia a utilizar aquí`
 ## **5.	Reporte de visión**
 
-Proporciona una descripción general del software, sus objetivos y beneficios.
-`Ingresar el reporte de visión aquí`
+Descripción general del software, sus objetivos y beneficios.
+
+> 1. Funcionalidades Principales:
+   
+*  Registro de Reservas: Los clientes podrán realizar reservas mediante una interfaz fácil de usar, proporcionando detalles como el número de personas, fecha, hora, y preferencias especiales.
+
+*  Asignación Automática de Mesas: El sistema asignará mesas automáticamente según la disponibilidad y las preferencias de los clientes (ubicación, tamaño del grupo, etc.).
+
+*  Monitoreo en Tiempo Real: El personal del restaurante podrá ver el estado de las mesas (libre, ocupada, reservada) y recibirá notificaciones sobre próximas reservas y mesas que deben prepararse.
+
+*  Panel de Control: El personal gestionará reservas y la ocupación del restaurante mediante un panel que muestra el estado actual y las próximas reservas.
+
+> 2. Beneficios:
+   
+*   Reducción de errores en la asignación de mesas.
+
+*    Mejora en la eficiencia operativa al gestionar reservas y ocupación en tiempo real.
+
+*    Mejor experiencia para los clientes, reduciendo tiempos de espera y considerando preferencias.
 ## **6.	Especificación de requisitos**
 
 Describe los requisitos funcionales y no funcionales del software.
@@ -117,4 +134,12 @@ Describe los requisitos funcionales y no funcionales del software.
 *   ## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
+Actividades y Cronograma (Diagrama de Gantt)
+Actividad	Duración	              Semana 1	Semana 2	Semana 3	Semana 4	Semana 5	Semana 6
+1. Análisis de Requisitos	1 semana	 X							
+2. Diseño del Sistema	    1 semana		       X						
+3. Desarrollo del Backend	2 semanas			               X	          X				
+4. Desarrollo del Frontend	2 semanas				                           x      X		
+5. Pruebas del Sistema	    1 semana							                                   X	
+6. Despliegue	            1 semana							                                	X
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
