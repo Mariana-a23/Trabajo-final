@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Barbie" height="200px" src="https://raw.githubusercontent.com/Mariana-a23/Trabajo-final/main/images/Barbie_Logo.svg.png" hspace="10px" vspace="0px">
+                <img alt="Dolce Vita" height="150px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
@@ -36,14 +36,10 @@
 </p>
 
 <div align="right">
-<h2> <b> Por: Julián Andrés Castillo G. </b> </h2>
-<a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
-<h2> <b> Por: Yony Fernando Ceballos. </b> </h2>
-<a href="mailto:yony.ceballos@udea.edu.co"> ✉ Yony Fernando Ceballos </a>
   <h2> <b> Por: Mariana Arévalo. </b> </h2>
 <a href="mailto:mariana.arevaloo@udea.du.co"> ✉ Mariana Arévalo Ocampo </a>
   <h2> <b> Por: Jacobo Ávila. </b> </h2>
-<a href="mailto:jacobo.avila@udea.edu.co"> ✉ Jacobo Avila </a>
+<a href="mailto:jacobo.avila@udea.edu.co"> ✉ Jacobo Ávila Jiménez </a>
 </div>
 
 <br>
@@ -87,13 +83,16 @@ El entregable debe ser realizado en un repositorio de GitHub y debidamente organ
 El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
-En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
+## **Jacobo Ávila**
+Soy Jacobo Ávila, soy alguien que le gusta el gimnasio y compartir con mis amigos.
 
-`Ingresar los integrantes aquí`
+## **Mariana Arévalo**
+Soy Mariana Arévalo, me gusta la repostería y emprender.
+
 ## **2.	Vínculos académicos y descripción**
-
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
-`Registrar los vínculos académicos y descripcion de cada uno aquí`
+#### Jacobo Ávila (Ing. Industrial). 
+Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
+`
 ## **3.	Nombre del proyecto y detalles**
 <img alt="Dolce Vita" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="20px">
 El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita.
