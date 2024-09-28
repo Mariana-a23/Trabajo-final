@@ -136,12 +136,57 @@ Descripción general del software, sus objetivos y beneficios.
 *    Mejor experiencia para los clientes, reduciendo tiempos de espera y considerando preferencias.
 ## **6.	Especificación de requisitos**
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+### **Requisitos funcionales:**
+* Registrar las reservas: Los clientes deben contar con una interfaz sencilla de comprender para ingresar la información como; fecha, hora, nombre de la persona, numero de personas y su preferencia.
+* Automatización para la asignación de mesas: El software debe asignar mesas segun la disponibilidad y capacidad con la que cuente el restaurante, al igual que debe tener en cuenta las preferencias del cliente. Actualizar automaticamente el estado de las mesas (Libres u ocupadas)
+* Gestión de flujo de clientes: El software tendrá como misión verificar en tiempo real cuales mesas están libres u ocupadas. Además de avisar al personal de las próximas reservas o la preparación de las mesas.
+* Interfaz de usuario amigable: El personal deberá administrar las reservas y la asignación de mesas, a través de una pantalla facíl de usar. Mostrando cuales mesas estan ocupadas y cuantas están reservadas. Permitiendo modificar o cancelar de manera rápida las reservas.
+  
+### **Requisitos no funcionales:**
+* Rendimiento: El sistema debe ser rapido y asignar reservas sin demoras. También gestionar varias reservas al mismo tiempo sin que este colapse.
+* Facíl uso: La interfaz debe ser facíl de entender e intuitiva para el personal, en la cual los clientes puedan hacer sus reservas en pocos pasos.
+* Fiabilidad: El sistema debe ser confiable guardando los datos evitando la perdida de datos, tiene que estar disponible para su uso durante el horario de atención del restaurante
+* Seguridad: Los datos de los clientes deben estar para que sea unicamente utilizado por el personal autorizado, al igual que estos mismos deben estar cifrados para que sea accesible al personal autorizado y no a personas mal intencionadas.
+* Compatibilidad: El sistema debe tener la capacidad de poder ser utilizado en diferentes dispositivos y sitios webs, tiene que poder integrarse con otros sistemas del restaurante
+* Escalabilidad: El sistema debe poder crecer junto con el restaurante
 
 *   ## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
 
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+### **Detalle de Actividades:**
+
+**Análisis de Requisitos (1 semana):**
+
+* Reunión con los responsables del restaurante para identificar todas las necesidades específicas del sistema.
+* Definir el flujo de reservas y las características de asignación de mesas.
+  
+**Diseño del Sistema (1 semana):**
+
+*Diseño de la arquitectura del software, incluyendo la base de datos, las interacciones del backend y la interfaz del usuario.
+* Mockups de la interfaz para el personal del restaurante y para los clientes que hagan reservas.
+  
+**Desarrollo del Backend (2 semanas):**
+
+* Desarrollo del servidor y la base de datos que gestionarán el registro de reservas, asignación de mesas y el monitoreo en tiempo real del estado de las mesas.
+
+**Desarrollo del Frontend (2 semanas):**
+
+* Creación de la interfaz de usuario para el personal del restaurante.
+* Desarrollo de la página web o aplicación para que los clientes puedan realizar reservas.
+  
+**Pruebas del Sistema (1 semana):**
+
+*Pruebas de funcionalidad para verificar que el sistema asigna correctamente las mesas y gestiona las reservas.
+* Pruebas de la interfaz de usuario para asegurar que es intuitiva y fácil de usar.
+  
+**Despliegue (1 semana):**
+
+* Instalación del sistema en los servidores del restaurante.
+* Pruebas finales en el entorno real del restaurante.
+  
+<img alt="Diagrama de gantt" height="400px" src="https://raw.githubusercontent.com/Mariana-a23/Trabajo-final/refs/heads/main/images/Captura%20de%20pantalla%202024-09-28%20173130.png">
+
+### **Horas de formación**
+Se tiene previsto dedicar 8 horas semanales al proyecto, dando un total de 64 horas para su finalización.
+* Presupuesto de acuerdo al smlv: 346.664 COP
