@@ -97,7 +97,15 @@ Todos los integrantes deben registrar el programa al cual pertenece, una descrip
 ## **3.	Nombre del proyecto y detalles**
 
 Software de gestión de reservas en el restaurante 'La Dolce Vita'
+###  Detalles del software
+Asignación Automática de Mesas:
+El sistema asigna mesas de manera automática según la disponibilidad y preferencias del cliente (tamaño del grupo, ubicación cerca de la ventana, etc.), optimizando el uso del espacio del restaurante y evitando conflictos o dobles reservas.
 
+Monitoreo en Tiempo Real:
+El software muestra el estado actual de cada mesa (libre, ocupada, reservada) en tiempo real a través de un panel de control, permitiendo que el personal gestione de manera más eficiente las próximas reservas y el flujo de clientes.
+
+Interfaz de Usuario Amigable:
+Tanto el cliente como el personal del restaurante pueden utilizar una interfaz intuitiva para gestionar las reservas. Los clientes pueden reservar online y el personal puede administrar las mesas y anticipar el servicio desde un dispositivo.
 
 ## **4.	Licencia del software**
 
