@@ -92,11 +92,13 @@ Soy Mariana Arévalo, me gusta la repostería y emprender.
 ## **2.	Vínculos académicos y descripción**
 #### Jacobo Ávila (Ing. Industrial). 
 Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
+#### Mariana Arévalo
+Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 `
 ## **3.	Nombre del proyecto y detalles**
 <img alt="Dolce Vita" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="20px">
 El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita.
-Software de gestión de reservas en el restaurante 'La Dolce Vita'
+
 ####  Detalles del software
 Asignación Automática de Mesas:
 El sistema asigna mesas de manera automática según la disponibilidad y preferencias del cliente (tamaño del grupo, ubicación cerca de la ventana, etc.), optimizando el uso del espacio del restaurante y evitando conflictos o dobles reservas.
